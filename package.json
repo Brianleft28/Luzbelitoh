@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "nodemon src/index.js",
+    "commands": "nodemon src/deploy-commands.js"
   },
   "keywords": [],
   "type": "module",
