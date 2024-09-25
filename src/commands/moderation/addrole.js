@@ -36,6 +36,4 @@ export const execute = async (message, args) => {
       console.error(error);
       message.reply("Hubo un error al asignar el rol.");
     }
-
-  
 }
